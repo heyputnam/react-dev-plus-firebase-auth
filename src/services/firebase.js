@@ -42,7 +42,7 @@ const firebaseConfig = {
 
   //export the actions (export default)
 
-  export default {
+  export  {
       auth,
       login,
       logout
